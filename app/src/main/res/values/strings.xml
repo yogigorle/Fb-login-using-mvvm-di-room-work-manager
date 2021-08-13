@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zocket Task</string>
+
+    <string name="facebook_app_id">376053853899214</string>
+    <string name="fb_login_protocol_scheme">fb376053853899214</string>
+
+    // notification channel id
+    <string name="notification_channel_id" translatable="false">notification_channel</string>
+    <string name="notification_channel_name" translatable="true">Notification</string>
+    <string name="welcome">Welcome</string>
+    <string name="zocket">Zocket</string>
+    <string name="technologies">Technologies</string>
+    <string name="note_data_syncs_with_server_with_an_interval_of_15_mins">Note: Data syncs with server with an interval of 15 mins</string>
+
+</resources>
